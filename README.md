@@ -1,6 +1,4 @@
-﻿# policy
-# policy
-Steps to Build and Deploy the Sentiment Analysis Model
+#Steps to Build and Deploy the Sentiment Analysis Model
 Environment Setup
 .Create Project Directory
 .Set Up Virtual Environment
